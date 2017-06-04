@@ -5,3 +5,4 @@ Git tracks changes of file.
 a
 1
 from branch
+Creating a new branch is quick & simple.
